@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "name": "Launch App",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "preLaunchTask": "Start Vite Server",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
